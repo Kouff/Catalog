@@ -18,6 +18,11 @@ class Product(models.Model):
     def __str__(self):
         return self.name
 
+    class Meta:
+        indexes = (
+            models.Index(fields=('catalog',)),
+        )
+
 
 class ProductParam(models.Model):
     name = models.CharField(max_length=255)
@@ -25,9 +30,20 @@ class ProductParam(models.Model):
 
     product = models.ForeignKey(Product, models.DO_NOTHING, 'params')
 
+    class Meta:
+        indexes = (
+            models.Index(fields=('name', 'value')),
+            models.Index(fields=('product',)),
+        )
+
 
 class ProductImage(models.Model):
     file = models.ImageField(upload_to='media/products/')
     title = models.CharField(max_length=255)
 
     product = models.ForeignKey(Product, models.DO_NOTHING, 'images')
+
+    class Meta:
+        indexes = (
+            models.Index(fields=('product',)),
+        )
