@@ -38,7 +38,7 @@ class ProductParam(models.Model):
 
 
 class ProductImage(models.Model):
-    file = models.ImageField(upload_to='media/products/')
+    file = models.ImageField(upload_to='products')
     title = models.CharField(max_length=255)
 
     product = models.ForeignKey(Product, models.DO_NOTHING, 'images')
