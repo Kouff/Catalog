@@ -2,6 +2,7 @@ from rest_framework.generics import ListAPIView
 
 from catalog.filters import ProductParamsFilterBackend
 from catalog.models import Catalog, Product
+from catalog.paginations import ProductParamsOffsetPagination
 from catalog.serializers import CatalogSerializer, ProductSerializer
 
 
@@ -16,6 +17,7 @@ class ProductListAPIView(ListAPIView):
     serializer_class = ProductSerializer
     queryset = Product.objects.all()
     filter_backends = (ProductParamsFilterBackend,)
+    pagination_class = ProductParamsOffsetPagination
 
     def get_queryset(self):
         catalog_id = self.kwargs['catalog_id']
