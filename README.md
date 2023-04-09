@@ -1,7 +1,5 @@
 # Django Catalog
 
-## Load test data
-
 ## Preparation for running
 Clone a project and move to it:
 
