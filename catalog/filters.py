@@ -7,6 +7,7 @@ from rest_framework.filters import BaseFilterBackend
 
 
 class ProductParamsFilterBackend(BaseFilterBackend):
+    except_query_params = ('limit', 'offset')
 
     @staticmethod
     def make_querysets(params, queryset):
@@ -21,8 +22,16 @@ class ProductParamsFilterBackend(BaseFilterBackend):
     def make_intersection_queryset(querysets):
         return reduce(operator.and_, querysets)
 
+    def get_query_params(self, request):
+        params = request.query_params.copy()
+
+        for except_query_param in self.except_query_params:
+            params.pop(except_query_param)
+
+        return params
+
     def filter_queryset(self, request, queryset, view):
-        params = request.query_params
+        params = self.get_query_params(request)
 
         if params:
             querysets = self.make_querysets(params, queryset)
