@@ -1,0 +1,1127 @@
+[
+  {
+    "model": "catalog.catalog",
+    "pk": 1,
+    "fields": {
+      "name": "Monitors"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Samsung Odyssey G5A 27",
+      "description": "A high-quality model from the new series of Samsung Odyssey gaming monitors, in which the South Korean giant managed to combine the excellent image quality of Samsung displays with a futuristic design and advanced technical capabilities of gaming monitors. In particular, for this model, the reactive response speed of the matrix (1 ms from gray to gray), an increased screen refresh rate of 165 Hz, as well as simultaneous support for FreeSync Premium and NVIDIA G-Sync technologies (note: at the software level) are declared for this model.",
+      "price": "14000.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "name": "Samsung Odyssey G7 32",
+      "description": "High-quality gaming monitor with a 31.5-inch WQHD/2K resolution curved screen with a fast sensor, enhanced colour reproduction, impressive brightness and high refresh rate. Positioned as a 2020 mid-range product aimed at demanding gamers and aspiring esports players. The key design element of the Samsung Odyssey G7 monitor is a high-tech 10-bit SVA matrix with a resolution of 2560x1440 and QLED backlighting using quantum dot technology.",
+      "price": "19000.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+      "name": "Gigabyte G24F",
+      "description": "24\" FHD gaming monitor with wide colour gamut (120% sRGB), ergonomic multi-functional stand, built-in fast charging USB hub and semi-gloss anti-glare finish. The manufacturer is positioned as a model of the middle price category, designed for demanding gamers and novice e-sportsmen. The thin bezel screen is based on a full-fledged 8-bit IPS-type matrix with a high refresh rate of 165 Hz (170 Hz overclocked).",
+      "price": "8000.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "name": "2E G2422B",
+      "description": "2E G2422B",
+      "price": "6500.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+      "name": "2E G2721BV",
+      "description": "2E G2721BV",
+      "price": "9400.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 6,
+    "fields": {
+      "name": "MSI Optix G241",
+      "description": "A monitor designed to win hot gaming battles with a 23.8-inch screen at the head of the table. The model is assembled in a black matte plastic case without bright coloured inserts. The protagonist of the MSI Optix G241 is a fast IPS-matrix with a response time of 1 ms and a refresh rate of 144 Hz. To improve the smoothness of the gameplay and minimize image tearing, the models were brought up with AMD FreeSync adaptive frame rate synchronization technology.",
+      "price": "7800.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 7,
+    "fields": {
+      "name": "Huawei MateView",
+      "description": "Highly detailed professional monitor with a 28.2-inch thin-bezel screen with a custom resolution of 3840x2560 (3:2), accurate colours and wide colour gamut (98% DCI-P3). Also worth noting is an impressive maximum brightness of 500 cd / m², full support for high dynamic range images, built-in stereo speakers (2x5 W) and two integrated microphones. It is positioned as a product of the upper price category in 2021, focused on use as part of workstations for creating / processing raster / vector graphics and other multimedia content.",
+      "price": "29000.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 8,
+    "fields": {
+      "name": "Dell S2522HG",
+      "description": "The monitor from Dell belongs to the category of gaming and is suitable for both professional gamers and those who like to pass the time with their favorite toy. It is based on a 25-inch IPS matrix, which provides a clear and colorful picture. Claimed Full HD resolution, 99% sRGB colour gamut support, 240Hz refresh rate, and a motion picture response time of just 1ms. As a result, you will be able to react faster to the game environment, and the picture will not be blurry even during fast movement.",
+      "price": "10500.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 9,
+    "fields": {
+      "name": "LG UltraGear 27GP850",
+      "description": "A premium widescreen gaming monitor from the 2021 LG UltraGear family. Equipped with a large 27-inch WQHD/2K resolution screen with a semi-gloss anti-glare coating. Supports increased refresh rate, provides extended colour gamut. With a high peak brightness of 470 cd/m², it can fully display high dynamic range HDR images (long-term brightness up to 400 cd/m²). Supports AMD FreeSync refresh rate synchronization technology, which allows you to completely get rid of screen tearing typical for LCD monitors.",
+      "price": "14700.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 10,
+    "fields": {
+      "name": "QUBE Overlord G24F144",
+      "description": "Affordable gaming monitor with 23.8\" FHD resolution thin bezel, fast matrix and high refresh rate (144Hz). It is positioned as an inexpensive mid-range product that can satisfy the needs of most PC gaming enthusiasts and beginner e-sports players. The large screen is based on an eight-bit IPS-type matrix (6-bit + FRC) with a resolution of 1920x1080 and a flicker-free Flicker-Free backlight based on W-LED technology.",
+      "price": "7100.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 11,
+    "fields": {
+      "name": "Philips 243V7QDSB",
+      "description": "Stylish thin-bezel 23.8-inch Full HD monitor with high-quality IPS screen and technologies that prevent premature eye fatigue. This model can be used both for solving a wide range of work tasks, and as the main monitor of a home personal computer. Its screen has a physical diagonal size of 604 mm and a resolution of 1920x1080 pixels, which provides a pixel density of 92 ppi or 36 pixels / cm.",
+      "price": "4200.00",
+      "catalog": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 1,
+    "fields": {
+      "name": "Diagonal",
+      "value": "27",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 2,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 3,
+    "fields": {
+      "name": "Resolution",
+      "value": "2560x1440",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 4,
+    "fields": {
+      "name": "Frequency",
+      "value": "165",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 5,
+    "fields": {
+      "name": "Brightness",
+      "value": "350",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 6,
+    "fields": {
+      "name": "Diagonal",
+      "value": "32",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 7,
+    "fields": {
+      "name": "Matrix",
+      "value": "QLED",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 8,
+    "fields": {
+      "name": "Resolution",
+      "value": "2560x1440",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 9,
+    "fields": {
+      "name": "Frequency",
+      "value": "240",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 10,
+    "fields": {
+      "name": "Brightness",
+      "value": "600",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 11,
+    "fields": {
+      "name": "Diagonal",
+      "value": "24",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 12,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 13,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 14,
+    "fields": {
+      "name": "Frequency",
+      "value": "165",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 15,
+    "fields": {
+      "name": "Brightness",
+      "value": "300",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 16,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 17,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 18,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 19,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 3
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 20,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 21,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 22,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 23,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium Pro",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 24,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync Compatible",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 25,
+    "fields": {
+      "name": "Function",
+      "value": "PBP",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 26,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 2
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 27,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 28,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 29,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 30,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 31,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 32,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 1
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 33,
+    "fields": {
+      "name": "Diagonal",
+      "value": "23.8",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 34,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 35,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 36,
+    "fields": {
+      "name": "Frequency",
+      "value": "165",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 37,
+    "fields": {
+      "name": "Brightness",
+      "value": "250",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 38,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 39,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 40,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 41,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 42,
+    "fields": {
+      "name": "Connector",
+      "value": "USB C",
+      "product": 4
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 43,
+    "fields": {
+      "name": "Diagonal",
+      "value": "27",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 44,
+    "fields": {
+      "name": "Matrix",
+      "value": "VA",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 45,
+    "fields": {
+      "name": "Resolution",
+      "value": "2560x1440",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 46,
+    "fields": {
+      "name": "Frequency",
+      "value": "144",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 47,
+    "fields": {
+      "name": "Brightness",
+      "value": "350",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 48,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 49,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 50,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 51,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 52,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync Compatible",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 53,
+    "fields": {
+      "name": "Function",
+      "value": "PBP",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 54,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 5
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 55,
+    "fields": {
+      "name": "Diagonal",
+      "value": "24",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 56,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 57,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 58,
+    "fields": {
+      "name": "Frequency",
+      "value": "144",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 59,
+    "fields": {
+      "name": "Brightness",
+      "value": "250",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 60,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 61,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 62,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 6
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 63,
+    "fields": {
+      "name": "Diagonal",
+      "value": "28",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 64,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 65,
+    "fields": {
+      "name": "Resolution",
+      "value": "3840x2560",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 66,
+    "fields": {
+      "name": "Frequency",
+      "value": "60",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 67,
+    "fields": {
+      "name": "Brightness",
+      "value": "500",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 68,
+    "fields": {
+      "name": "Connector",
+      "value": "mini DisplayPort",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 69,
+    "fields": {
+      "name": "Connector",
+      "value": "USB C",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 70,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 71,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 72,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 7
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 73,
+    "fields": {
+      "name": "Diagonal",
+      "value": "25",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 74,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 75,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 76,
+    "fields": {
+      "name": "Frequency",
+      "value": "240",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 77,
+    "fields": {
+      "name": "Brightness",
+      "value": "400",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 78,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 79,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 80,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 81,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync Compatible",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 82,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 8
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 83,
+    "fields": {
+      "name": "Diagonal",
+      "value": "27",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 84,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 85,
+    "fields": {
+      "name": "Resolution",
+      "value": "2560x1440",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 86,
+    "fields": {
+      "name": "Frequency",
+      "value": "180",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 87,
+    "fields": {
+      "name": "Brightness",
+      "value": "400",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 88,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 89,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 90,
+    "fields": {
+      "name": "Function",
+      "value": "HDR",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 91,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync Premium",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 92,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync Compatible",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 93,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 9
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 94,
+    "fields": {
+      "name": "Diagonal",
+      "value": "24",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 95,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 96,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 97,
+    "fields": {
+      "name": "Frequency",
+      "value": "144",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 98,
+    "fields": {
+      "name": "Brightness",
+      "value": "300",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 99,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 100,
+    "fields": {
+      "name": "Connector",
+      "value": "DisplayPort",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 101,
+    "fields": {
+      "name": "Function",
+      "value": "AMD FreeSync",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 102,
+    "fields": {
+      "name": "Function",
+      "value": "NVIDIA G-Sync Compatible",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 103,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 10
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 104,
+    "fields": {
+      "name": "Diagonal",
+      "value": "24",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 105,
+    "fields": {
+      "name": "Matrix",
+      "value": "IPS",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 106,
+    "fields": {
+      "name": "Resolution",
+      "value": "1920x1080",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 107,
+    "fields": {
+      "name": "Frequency",
+      "value": "60",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 108,
+    "fields": {
+      "name": "Brightness",
+      "value": "250",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 109,
+    "fields": {
+      "name": "Connector",
+      "value": "VGA",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 110,
+    "fields": {
+      "name": "Connector",
+      "value": "DVI-D",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 111,
+    "fields": {
+      "name": "Connector",
+      "value": "HDMI",
+      "product": 11
+    }
+  },
+  {
+    "model": "catalog.productparam",
+    "pk": 112,
+    "fields": {
+      "name": "Function",
+      "value": "Flicker-Free",
+      "product": 11
+    }
+  }
+]
