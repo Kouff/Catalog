@@ -26,7 +26,7 @@ class ProductParamsFilterBackend(BaseFilterBackend):
         params = request.query_params.copy()
 
         for except_query_param in self.except_query_params:
-            params.pop(except_query_param)
+            params.pop(except_query_param, None)
 
         return params
 
